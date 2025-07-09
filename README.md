@@ -25,7 +25,6 @@ Let’s build and learn together. 💻🔍✨
 |--------|-------------|
 | [python-cyber-tools](https://github.com/0xPithyTrace/python-cyber-tools) | Beginner-friendly Python scripts for DFIR and automation |
 | [kql-threat-hunting](https://github.com/0xPithyTrace/kql-threat-hunting) | Sentinel-ready KQL queries grouped by investigation type |
-| [dfir-lab](https://github.com/0xPithyTrace/dfir-lab) | Walkthroughs, lab guides, and notes for digital forensics |
 | [ai-for-analysts](https://github.com/0xPithyTrace/ai-for-analysts) | How to use LLMs and AI tools in a security context |
 
 ---
@@ -34,10 +33,10 @@ Let’s build and learn together. 💻🔍✨
 
 | Topic | Resource |
 |-------|----------|
-| Getting Started in Cybersecurity | [Read the guide →](link-later) |
-| Python for Security Analysts | [Coming soon] |
-| What is KQL and Why It Matters? | [Coming soon] |
-| Using GitHub as a Learning Platform | [Coming soon] |
+| Getting Started in Cybersecurity | 🚧 Under Construction |
+| Python for Security Analysts | 🚧 Under Construction |
+| What is KQL and Why It Matters? | 🚧 Under Construction |
+| Using GitHub as a Learning Platform | 🚧 Under Construction |
 
 ---
 
