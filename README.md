@@ -33,10 +33,8 @@ Let’s build and learn together. 💻🔍✨
 
 | Topic | Resource |
 |-------|----------|
-| Getting Started in Cybersecurity | 🚧 Under Construction |
-| Python for Security Analysts | 🚧 Under Construction |
-| What is KQL and Why It Matters? | 🚧 Under Construction |
-| Using GitHub as a Learning Platform | 🚧 Under Construction |
+| Python for Security Analysts| [python-for-security-analysts](https://github.com/0xPithyTrace/python-for-security-analysts) |
+| Getting Started in Cybersecurity  | 🚧 Under Construction |
 
 ---
 
